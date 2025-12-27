@@ -162,16 +162,4 @@ Streamlit Cloud will:
 - Run `streamlit run app.py`
 - Provide a **public URL** you can share.
 
----
-
-### Adding This Project to Your CV
-
-You can describe this project on your CV as:
-
-> **Sales Analytics Dashboard | Streamlit, Python, Plotly**  
-> Built an end-to-end interactive sales dashboard with KPI tracking, filters, and visual analytics using Streamlit.  
-> Generated realistic sales data, implemented business metrics, and deployed via Streamlit Cloud.
-
-Include the **GitHub repository link** and (optionally) the **live Streamlit app URL** so recruiters can explore the dashboard directly.
-
 
